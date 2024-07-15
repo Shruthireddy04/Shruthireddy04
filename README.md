@@ -2,7 +2,7 @@
 <h3 >I am Shruthi, A passionate fullstack developer(MERN) from India</h3>
 
 - 🔭 I’m currently working on ReactJS, Nextjs & Stapijs.
--  ⚡ Currently Working at Tata Consultancy Services.
+-  ⚡ Currently Working at QED42.
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**.
